@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6294b904-5e0c-4c32-a9b5-e7ade9253821" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app" afterPath="$PROJECT_DIR$/app" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/linked-in.png" afterPath="$PROJECT_DIR$/app/images/linked-in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/images/twitter.png" afterPath="$PROJECT_DIR$/app/images/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.main.html" afterPath="$PROJECT_DIR$/app/views/about.main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.team.1.html" afterPath="$PROJECT_DIR$/app/views/about.team.1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.team.2.html" afterPath="$PROJECT_DIR$/app/views/about.team.2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.team.3.html" afterPath="$PROJECT_DIR$/app/views/about.team.3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.team.4.html" afterPath="$PROJECT_DIR$/app/views/about.team.4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/about.team.5.html" afterPath="$PROJECT_DIR$/app/views/about.team.5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contact.html" afterPath="$PROJECT_DIR$/app/views/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/home.css" afterPath="$PROJECT_DIR$/app/styles/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home.html" afterPath="$PROJECT_DIR$/app/views/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/home.scss" afterPath="$PROJECT_DIR$/app/styles/home.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/nav.html" afterPath="$PROJECT_DIR$/app/views/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/platform.analysis.html" afterPath="$PROJECT_DIR$/app/views/platform.analysis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/platform.commerce.html" afterPath="$PROJECT_DIR$/app/views/platform.commerce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/platform.creation.html" afterPath="$PROJECT_DIR$/app/views/platform.creation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/platform.curation.html" afterPath="$PROJECT_DIR$/app/views/platform.curation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/platform.main.html" afterPath="$PROJECT_DIR$/app/views/platform.main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/work.fonograf.html" afterPath="$PROJECT_DIR$/app/views/work.fonograf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/work.lens.html" afterPath="$PROJECT_DIR$/app/views/work.lens.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/work.main.html" afterPath="$PROJECT_DIR$/app/views/work.main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Artifact.iws" />
@@ -37,43 +49,61 @@
       <file leaf-file-name="home.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="207" column="0" selection-start="3477" selection-end="3477" vertical-scroll-proportion="-5.5102043" vertical-offset="2835" max-vertical-offset="8265">
+            <state line="634" column="25" selection-start="11212" selection-end="11212" vertical-scroll-proportion="80.0" vertical-offset="11430" max-vertical-offset="13395">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.team.1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.team.1.html">
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="118" selection-start="2663" selection-end="2663" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="870">
+            <state line="16" column="93" selection-start="653" selection-end="653" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.team.2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.team.2.html">
+      <file leaf-file-name="nav.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="118" selection-start="654" selection-end="654" vertical-scroll-proportion="-5.0" vertical-offset="15" max-vertical-offset="855">
+            <state line="6" column="64" selection-start="392" selection-end="392" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.team.3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.team.3.html">
+      <file leaf-file-name="about.main.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/about.main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="128" selection-start="2219" selection-end="2219" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="885">
+            <state line="6" column="210" selection-start="494" selection-end="494" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1305">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/_mixins.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.team.4.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.team.4.html">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="102" selection-start="480" selection-end="480" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="900">
+            <state line="51" column="32" selection-start="1421" selection-end="1422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -82,25 +112,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="7" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.8648649" vertical-offset="474" max-vertical-offset="1140">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.team.5.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.team.5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="49" selection-start="2121" selection-end="2121" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="52" selection-start="74" selection-end="74" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="210">
+            <state line="33" column="20" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.651289" vertical-offset="15" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
@@ -125,29 +137,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/platform.commerce.html" />
-        <option value="$PROJECT_DIR$/app/views/platform.analysis.html" />
         <option value="$PROJECT_DIR$/app/views/work.main.html" />
-        <option value="$PROJECT_DIR$/app/views/work.fonograf.html" />
         <option value="$PROJECT_DIR$/app/views/work.lens.html" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/about.js" />
+        <option value="$PROJECT_DIR$/app/views/nav.html" />
         <option value="$PROJECT_DIR$/app/views/about.main.html" />
-        <option value="$PROJECT_DIR$/app/scripts/directives/utilities.js" />
-        <option value="$PROJECT_DIR$/app/views/about.team.5.html" />
-        <option value="$PROJECT_DIR$/app/views/home.html" />
-        <option value="$PROJECT_DIR$/app/styles/home.scss" />
-        <option value="$PROJECT_DIR$/app/views/about.team.2.html" />
         <option value="$PROJECT_DIR$/app/views/about.team.1.html" />
+        <option value="$PROJECT_DIR$/app/views/about.team.2.html" />
         <option value="$PROJECT_DIR$/app/views/about.team.3.html" />
         <option value="$PROJECT_DIR$/app/views/about.team.4.html" />
+        <option value="$PROJECT_DIR$/app/views/about.team.5.html" />
+        <option value="$PROJECT_DIR$/app/views/platform.main.html" />
+        <option value="$PROJECT_DIR$/app/views/platform.curation.html" />
+        <option value="$PROJECT_DIR$/app/views/platform.commerce.html" />
+        <option value="$PROJECT_DIR$/app/views/work.fonograf.html" />
+        <option value="$PROJECT_DIR$/app/styles/home.scss" />
+        <option value="$PROJECT_DIR$/app/views/contact.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -223,6 +234,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Artifact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Artifact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -374,7 +403,7 @@
     <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="false" />
+    <property name="FullScreen" value="true" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -476,11 +505,15 @@
       <created>1388854444856</created>
       <updated>1388854444856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done some more">
+      <created>1388855817140</created>
+      <updated>1388855817140</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -494,8 +527,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26398852" sideWeight="0.67206985" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32793018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -514,111 +547,107 @@
     </option>
     <MESSAGE value="First commit" />
     <MESSAGE value="Done some" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done some" />
+    <MESSAGE value="Done some more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done some more" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/work.lens.html">
+    <entry file="file://$PROJECT_DIR$/app/views/about.team.5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="72" selection-start="94" selection-end="94" vertical-scroll-proportion="0.021367522" vertical-offset="0" max-vertical-offset="702">
+        <state line="29" column="39" selection-start="2034" selection-end="2034" vertical-scroll-proportion="0.59023064" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/platform.main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="661" selection-end="695" vertical-scroll-proportion="0.16282225" vertical-offset="0" max-vertical-offset="737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/platform.curation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="60" selection-start="288" selection-end="288" vertical-scroll-proportion="0.10504202" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/platform.creation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="761">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/platform.commerce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="71" selection-start="293" selection-end="293" vertical-scroll-proportion="0.101763904" vertical-offset="0" max-vertical-offset="737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/platform.analysis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="761">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/work.main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="125" selection-start="147" selection-end="147" vertical-scroll-proportion="0.021770682" vertical-offset="0" max-vertical-offset="689">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="761">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/work.lens.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="761">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/work.fonograf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="881" selection-end="1037" vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="93" selection-start="653" selection-end="653" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="634" column="25" selection-start="11212" selection-end="11212" vertical-scroll-proportion="80.0" vertical-offset="11430" max-vertical-offset="13395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="31" selection-start="822" selection-end="822" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="555">
+        <state line="6" column="64" selection-start="392" selection-end="392" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="660">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="15" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="134" selection-start="778" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding>
-            <element signature="e#138#318#0" expanded="true" />
-            <element signature="e#332#504#0" expanded="true" />
-            <element signature="e#518#702#0" expanded="true" />
-            <element signature="e#918#985#0" expanded="true" />
-            <element signature="e#999#1066#0" expanded="true" />
-            <element signature="e#1080#1147#0" expanded="true" />
-            <element signature="e#1161#1228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="0" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2250">
-          <folding>
-            <element signature="e#45#137#0" expanded="true" />
-            <element signature="e#401#742#0" expanded="true" />
-            <element signature="e#452#728#0" expanded="true" />
-            <element signature="e#478#604#0" expanded="true" />
-            <element signature="e#633#710#0" expanded="true" />
-            <element signature="e#772#1103#0" expanded="true" />
-            <element signature="e#860#1089#0" expanded="true" />
-            <element signature="e#886#965#0" expanded="true" />
-            <element signature="e#994#1071#0" expanded="true" />
-            <element signature="e#1138#1232#0" expanded="true" />
-            <element signature="e#1267#1388#0" expanded="true" />
-            <element signature="e#1425#1522#0" expanded="true" />
-            <element signature="e#1559#1656#0" expanded="true" />
-            <element signature="e#1693#1790#0" expanded="true" />
-            <element signature="e#1827#1924#0" expanded="true" />
-            <element signature="e#1961#2058#0" expanded="true" />
-            <element signature="e#2091#2428#0" expanded="true" />
-            <element signature="e#2182#2414#0" expanded="true" />
-            <element signature="e#2208#2290#0" expanded="true" />
-            <element signature="e#2319#2396#0" expanded="true" />
-            <element signature="e#2466#2563#0" expanded="true" />
-            <element signature="e#2605#2714#0" expanded="true" />
-            <element signature="e#2756#2865#0" expanded="true" />
-            <element signature="e#2907#3016#0" expanded="true" />
-            <element signature="e#3058#3167#0" expanded="true" />
-            <element signature="e#3196#3525#0" expanded="true" />
-            <element signature="e#3283#3511#0" expanded="true" />
-            <element signature="e#3309#3387#0" expanded="true" />
-            <element signature="e#3416#3493#0" expanded="true" />
-            <element signature="e#3559#3652#0" expanded="true" />
-            <element signature="e#3690#3795#0" expanded="true" />
-            <element signature="e#3829#3926#0" expanded="true" />
-            <element signature="e#3958#4261#0" expanded="true" />
-            <element signature="e#4016#4247#0" expanded="true" />
-            <element signature="e#4042#4123#0" expanded="true" />
-            <element signature="e#4152#4229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/directives/utilities.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.16528925" vertical-offset="0" max-vertical-offset="726">
-          <folding>
-            <element signature="e#224#449#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/about.main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="85" selection-start="76" selection-end="133" vertical-scroll-proportion="0.021770682" vertical-offset="0" max-vertical-offset="1305">
+        <state line="6" column="210" selection-start="494" selection-end="494" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1305">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -632,58 +661,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.html">
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="52" selection-start="74" selection-end="74" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.team.5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="49" selection-start="2121" selection-end="2121" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="825">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="207" column="0" selection-start="3477" selection-end="3477" vertical-scroll-proportion="-5.5102043" vertical-offset="2835" max-vertical-offset="8265">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.team.1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="118" selection-start="2663" selection-end="2663" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.team.2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="118" selection-start="654" selection-end="654" vertical-scroll-proportion="-5.0" vertical-offset="15" max-vertical-offset="855">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.team.3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="128" selection-start="2219" selection-end="2219" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="885">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/about.team.4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="102" selection-start="480" selection-end="480" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="900">
+        <state line="51" column="32" selection-start="1421" selection-end="1422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="7" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.8648649" vertical-offset="474" max-vertical-offset="1140">
+        <state line="33" column="20" selection-start="1590" selection-end="1590" vertical-scroll-proportion="0.651289" vertical-offset="15" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>
